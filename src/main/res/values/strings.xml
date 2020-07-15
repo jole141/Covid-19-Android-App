@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CovidHrvatska</string>
+
+
+    <string-array name="graphOption">
+
+        <item>line</item>
+        <item>bars</item>
+
+    </string-array>
+</resources>
